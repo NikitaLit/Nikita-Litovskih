@@ -1,0 +1,40 @@
+h2 {
+   margin-top: 50px;
+   margin-bottom: 50px;
+}
+
+.contacts-page {
+   border-bottom: 4px solid #50E2EC;
+}
+
+.contacts-card {
+   width: 1164px;
+   height: 627px;
+   background: #1F1A1A;
+   border: 6px solid #50E2EC;
+   border-radius: 40px;
+   margin-bottom: 80px;
+}
+
+.contacts-title a {
+   font-family: 'Montserrat';
+   font-weight: 400;
+   font-size: 40px;
+   line-height: 49px;
+   color: #FFFFFF;
+}
+
+.contacts-title a:hover {
+   color: #50E2EC;
+}
+
+.contacts-title ul {
+   display: flex;
+   flex-wrap: wrap;
+   gap: 20px;
+}
+
+.contacts-title {
+ margin-left: 230px;
+ margin-top: 140px;
+}

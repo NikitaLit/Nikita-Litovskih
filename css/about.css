@@ -1,0 +1,30 @@
+.about-page-title {
+   width: 1164px;
+   height: 627px;
+   background: #1F1A1A;
+   border: 6px solid #50E2EC;
+   border-radius: 40px;
+   margin-top: 50px;
+}
+
+.about-page {
+   height: 910px;
+   border-bottom: 3px solid #11DCE9;
+}
+
+.subtitle-about {
+   width: 1075px;
+   height: 575px;
+   font-family: 'Montserrat';
+   font-weight: 400;
+   font-size: 40px;
+   line-height: 49px;
+   color: #FFFFFF;
+   margin-left: 50px;
+   margin-top: 20px;
+}
+
+h2 {
+   margin-top: 50px;
+}
+
